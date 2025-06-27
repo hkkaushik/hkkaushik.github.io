@@ -1,0 +1,198 @@
+.timeline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.timeline-list li {
+  display: grid;
+  grid-template-columns: 20ch 1fr; /* Reserve fixed width for date column */
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-list .date-range {
+  // font-weight: bold;
+  white-space: nowrap;
+  color: var(--global-text-color-light);
+}
+
+.timeline-list .description {
+  text-align: left;
+}
+
+.timeline-list .degree-title {
+  font-weight: bold;
+}
+
+
+.course-timeline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.course-timeline-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  // border-bottom: 1px solid #ddd;
+  align-items: flex-start;
+}
+
+.course-name {
+  flex: 2;
+  font-weight: bold;
+}
+
+.course-description {
+  font-weight: normal;
+  font-size: 0.9em;
+  // color: #676666;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.course-term {
+  flex: 1;
+  text-align: center;
+  margin-top: 2px;
+}
+
+.course-dates {
+  flex: 2;
+  text-align: right;
+  // color: #807f7f;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+
+.student-timeline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.student-timeline-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  border-bottom: 1px solid #ddd;
+  align-items: flex-start;
+}
+
+.student-name {
+  flex: 2;
+}
+
+.student-fullname {
+  font-size: 1.5em;  /* Or adjust to 1.3em, 20px, etc. */
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.degree-awarded {
+  font-size: 0.7em; /* normal font size */
+  font-weight: normal;
+  color: var(--global-text-color-light);
+  margin-left: 8px; /* optional spacing */
+}
+
+// .degree-awarded {
+//   flex: 2;
+//   font-size: 0.7em; /* normal font size */
+//   // font-weight: normal;
+//   color: var(--global-text-color-light);
+//   text-align: center;
+//   margin-left: 8px; /* optional spacing */
+// }
+
+// .supervised-dates {
+//   flex: 2;
+//   text-align: center;
+//   margin-left: -30px; // or use padding
+//   color: var(--global-text-color-light);
+//   margin-top: 2px;
+// }
+
+.position {
+  font-weight: normal;
+  font-size: 0.9em;
+  // color: #676666;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.thesis {
+  font-weight: normal;
+  font-size: 0.9em;
+  // color: #676666;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.supervised-dates {
+  flex: 2;
+  text-align: right;
+  // color: #807f7f;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+
+.talk-timeline-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.talk-timeline-list li {
+  display: flex;
+  justify-content: space-between;
+  padding: 6px 0;
+  // border-bottom: 1px solid #ddd;
+  align-items: flex-start;
+}
+
+.talk-name {
+  flex: 2;
+}
+
+.presentation-name {
+  font-size: 1em;  /* Or adjust to 1.3em, 20px, etc. */
+  // font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.talk-role {
+  font-weight: normal;
+  font-size: 0.9em;
+  // color: #676666;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.talk_place {
+  font-weight: normal;
+  font-size: 0.9em;
+  // color: #676666;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.talk-dates {
+  flex: 2;
+  text-align: right;
+  // color: #807f7f;
+  color: var(--global-text-color-light);
+  margin-top: 2px;
+}
+
+.bio-highlight {
+  margin-top: 3rem;      // adds space above
+  font-size: 1.2rem;     // increase as needed (e.g. 1.3rem or 18px)
+  line-height: 1.3;      // for better readability
+  text-align: justify;
+}
+

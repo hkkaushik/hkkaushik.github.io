@@ -1,6 +1,3 @@
----
----
-see
 @incollection{kumar2012finite,
   title={Finite volume methods for the two-fluid MHD equations},
   author={Kumar, Harish},
@@ -9,9 +6,6 @@ see
   year={2012}
 }
 
-
-
-
 @article{abgrall2014robust,
   title={Robust finite volume schemes for two-fluid plasma equations},
   author={Abgrall, Remi and Kumar, Harish},
@@ -19,8 +13,7 @@ see
   volume={60},
   pages={584--611},
   year={2014},
-  publisher={Springer US},
-  doi={http://dx.doi.org/10.1007/s10915-013-9809-6}
+  publisher={Springer US}
 }
 
 @article{wheatley2010role,
@@ -31,14 +24,9 @@ see
   number={3},
   pages={660--680},
   year={2010},
-  publisher={Elsevier},
-  doi={http://dx.doi.org/10.1016/j.jcp.2009.10.003}
+  publisher={Elsevier}
 }
 
-
-
-
-see
 @inproceedings{huguenot2008numerical,
   title={Numerical simulations of high current arc in circuit breakers},
   author={Huguenot, P and Kumar, H and Wheatley, V and Jeltsch, R and Schwab, C and Torrilhon, M},
@@ -46,17 +34,12 @@ see
   year={2008}
 }
 
-
-
-see
 @phdthesis{kumar2009three,
   title={Three dimensional high current arc simulations for circuit breakers using real gas resistive magnetohydrodynamics},
   author={Kumar, Harish},
   year={2009},
   school={ETH Zurich}
 }
-
-
 
 @inproceedings{hiptmair2008numerical,
   title={Numerical Simulation of Compressible Magnetohydrodynamic Plasma Flow in a Curcuit Breaker},
@@ -66,8 +49,7 @@ see
   number={1},
   pages={21--22},
   year={2008},
-  organization={AIP},
-  doi={http://dx.doi.org/10.1063/1.2990896}
+  organization={AIP}
 }
 
 @article{jeltsch2013three,
@@ -76,8 +58,7 @@ see
   journal={The Courant--Friedrichs--Lewy (CFL) Condition: 80 Years After Its Discovery},
   pages={31--43},
   year={2013},
-  publisher={Birkh{\"a}user Boston},
-  doi={http://dx.doi.org/10.1007/978-0-8176-8394-8_3}
+  publisher={Birkh{\"a}user Boston}
 }
 
 @article{abgrall2014numerical,
@@ -88,8 +69,7 @@ see
   number={5},
   pages={1237--1265},
   year={2014},
-  publisher={Cambridge University Press},
-  doi={http://dx.doi.org/10.4208/cicp.110313.230913a}
+  publisher={Cambridge University Press}
 }
 
 @article{kumar2012entropy,
@@ -99,15 +79,9 @@ see
   volume={52},
   pages={401--425},
   year={2012},
-  publisher={Springer US},
-  doi={http://dx.doi.org/10.1007/s10915-011-9554-7}
+  publisher={Springer US}
 }
 
-
-
-
-
-see
 @article{kumar2011implicit,
   title={Implicit-explicit Runge-Kutta methods for the two-fluid MHD equations},
   author={Kumar, Harish},
@@ -117,11 +91,6 @@ see
   publisher={ETH Zurich}
 }
 
-
-
-
-
-see
 @article{wheatley2011spectral,
   title={Spectral performance of RKDG methods},
   author={Wheatley, V and Jeltsch, R and Kumar, H},
@@ -133,12 +102,6 @@ see
   publisher={Unitas Mathematicorum Balkanica}
 }
 
-
-
-
-
-
-
 @article{meena2017positivity,
   title={Positivity-preserving high-order discontinuous Galerkin schemes for Ten-Moment Gaussian closure equations},
   author={Meena, Asha Kumari and Kumar, Harish and Chandrashekar, Praveen},
@@ -146,8 +109,7 @@ see
   volume={339},
   pages={370--395},
   year={2017},
-  publisher={Academic Press},
-  doi={http://dx.doi.org/10.1016/j.jcp.2017.03.024}
+  publisher={Academic Press}
 }
 
 @article{sen2018entropy,
@@ -158,15 +120,9 @@ see
   number={2},
   pages={1128--1155},
   year={2018},
-  publisher={Springer US},
-  doi={https://link.springer.com/article/10.1007/s10915-017-0579-4}
+  publisher={Springer US}
 }
 
-
-
-
-
-see
 @article{meena2017robust,
   title={Robust MUSCL Schemes for Ten-Moment Gaussian Closure Equations with Source Terms},
   author={Meena, Asha Kumari and Kumar, Harish},
@@ -177,11 +133,6 @@ see
   publisher={https://hal.archives-ouvertes.fr/hal-01619021}
 }
 
-
-
-
-
-
 @article{meena2018well,
   title={A well-balanced scheme for ten-moment Gaussian closure equations with source term},
   author={Meena, Asha Kumari and Kumar, Harish},
@@ -190,8 +141,7 @@ see
   number={1},
   pages={8},
   year={2018},
-  publisher={Springer International Publishing Cham},
-  doi={https://link.springer.com/article/10.1007/s00033-017-0901-x}
+  publisher={Springer International Publishing Cham}
 }
 
 @article{sharma2018study,
@@ -201,8 +151,7 @@ see
   volume={12},
   pages={65--70},
   year={2018},
-  publisher={Springer Berlin Heidelberg},
-  doi={http://dx.doi.org/10.1007/s40094-018-0284-1}
+  publisher={Springer Berlin Heidelberg}
 }
 
 
@@ -215,8 +164,7 @@ see
   number={1},
   pages={23},
   year={2019},
-  publisher={Springer International Publishing},
-  doi={https://link.springer.com/article/10.1007/s00033-018-1061-3}
+  publisher={Springer International Publishing}
 }
 
 @article{bhoriya2020entropy,
@@ -226,8 +174,7 @@ see
   volume={71},
   pages={1--29},
   year={2020},
-  publisher={Springer International Publishing},
-  doi={https://link.springer.com/article/10.1007/s00033-020-1250-8}
+  publisher={Springer International Publishing}
 }
 
 @article{biswas2022entropy,
@@ -237,8 +184,7 @@ see
   volume={112},
   pages={55--75},
   year={2022},
-  publisher={Elsevier},
-  doi={http://dx.doi.org/10.1016/j.camwa.2022.02.019}
+  publisher={Elsevier}
 }
 
 @article{biswas2021entropy,
@@ -248,8 +194,7 @@ see
   volume={431},
   pages={110148},
   year={2021},
-  publisher={Elsevier},
-  doi={http://dx.doi.org/10.1016/j.jcp.2021.110148}
+  publisher={Elsevier}
 }
 
 @article{bhoriya2023high,
@@ -259,16 +204,14 @@ see
   volume={488},
   pages={112207},
   year={2023},
-  publisher={Academic Press},
-  doi={http://dx.doi.org/10.1016/j.jcp.2023.112207}
+  publisher={Academic Press}
 }
 
 @article{subramanian2023techniques,
   title={Techniques, Tricks and Algorithms for Efficient GPU-Based Processing of Higher Order Hyperbolic PDEs},
   author={Subramanian, Sethupathy and Balsara, Dinshaw S and Bhoriya, Deepak and Kumar, Harish},
   journal={Communications on Applied Mathematics and Computation},
-  year={2023},
-  doi={http://dx.doi.org/10.1007/s42967-022-00235-9}
+  year={2023}
 }
 
 @article{balsara2023efficient,
@@ -276,8 +219,7 @@ see
   author={Balsara, Dinshaw S and Bhoriya, Deepak and Shu, Chi-Wang and Kumar, Harish},
   journal={Communications on Applied Mathematics and Computation},
   year={2023},
-  publisher={https://doi.org/10.1007/s42967-023-00275-9},
-  doi={https://doi.org/10.1007/s42967-023-00275-9}
+  publisher={https://doi.org/10.1007/s42967-023-00275-9}
 }
 
 @article{yadav2023entropy,
@@ -288,8 +230,7 @@ see
   number={3},
   pages={77},
   year={2023},
-  publisher={Springer US New York},
-  doi={http://dx.doi.org/10.1007/s10915-023-02374-4}
+  publisher={Springer US New York}
 }
 
 @article{bhoriya2023entropy,
@@ -300,8 +241,7 @@ see
   number={3},
   pages={72},
   year={2023},
-  publisher={Springer US New York},
-  doi={http://dx.doi.org/10.1007/s10915-023-02387-z}
+  publisher={Springer US New York}
 }
 
 @article{sharma2019effect,
@@ -311,8 +251,7 @@ see
   volume={13},
   pages={31--37},
   year={2019},
-  publisher={Springer},
-  doi={https://doi.org/10.1007/s40094-018-0306-z}
+  publisher={Springer}
 }
 
 @article{balsara2024efficient,
@@ -321,8 +260,7 @@ see
   journal={Communications on Applied Mathematics and Computation},
   pages={1--54},
   year={2024},
-  publisher={Springer Nature Singapore Singapore},
-  doi={10.1007/s42967-023-00360-z}
+  publisher={Springer Nature Singapore Singapore}
 }
 
 @article{balsara2024efficient,
@@ -331,32 +269,18 @@ see
   journal={Communications on Applied Mathematics and Computation},
   pages={1--50},
   year={2024},
-  publisher={https://doi.org/10.1007/s42967-024-00374-1},
-  doi={http://dx.doi.org/10.1007/s42967-024-00374-1}
+  publisher={https://doi.org/10.1007/s42967-024-00374-1}
 }
 
-@unpublished{bhoriya2024going,
+@article{bhoriya2024going,
   title={Going Beyond the MHD Approximation: Physics-Based Numerical Solution of the CGL Equations},
   author={Bhoriya, Deepak and Balsara, Dinshaw S and Florinski, Vladimir and Kumar, Harish},
   journal={The Astrophysical Journal},
   volume={970},
   number={2},
-  note={arXiv preprint},
+  pages={arXiv--preprint},
   year={2024},
-  publisher={AAS},
-  pubtype = {preprint},
-  doi={http://dx.doi.org/10.3847/1538-4357/ad50a4}
-}
-
-@article{agnihotri2024second,
-  title={Second order divergence constraint preserving entropy stable finite difference schemes for ideal two-fluid plasma flow equations},
-  author={Agnihotri, Jaya and Bhoriya, Deepak and Kumar, Harish and Chandrashekhar, Praveen and Balsara, Dinshaw S},
-  journal={Journal of Scientific Computing},
-  volume={101},
-  number={46},
-  year={2024},
-  publisher={https://doi.org/10.48550/arXiv.2409.16004, https://doi.org/10.1007/s10915~…},
-  doi={https://doi.org/10.1007/s10915-024-02685-0},
+  publisher={AAS}
 }
 
 @article{singh2025entropy,
@@ -366,9 +290,7 @@ see
   volume={102},
   pages={51},
   year={2025},
-  publisher={https://doi.org/10.1007/s10915-024-02763-3},
-  doi={http://dx.doi.org/10.1007/s10915-024-02763-3},
-  selected={true}
+  publisher={https://doi.org/10.1007/s10915-024-02763-3}
 }
 
 @article{basak2025bound,
@@ -378,9 +300,17 @@ see
   volume={527},
   pages={113815},
   year={2025},
-  publisher={https://doi.org/10.1016/j.jcp.2025.113815, https://doi.org/10.48550/arXiv~…},
-  doi={https://doi.org/10.1016/j.jcp.2025.113815},
-  selected={true}
+  publisher={https://doi.org/10.1016/j.jcp.2025.113815, https://doi.org/10.48550/arXiv~…}
+}
+
+@article{agnihotri2024second,
+  title={Second order divergence constraint preserving entropy stable finite difference schemes for ideal two-fluid plasma flow equations},
+  author={Agnihotri, Jaya and Bhoriya, Deepak and Kumar, Harish and Chandrashekhar, Praveen and Balsara, Dinshaw S},
+  journal={Journal of Scientific Computing},
+  volume={101},
+  number={46},
+  year={2024},
+  publisher={https://doi.org/10.48550/arXiv.2409.16004, https://doi.org/10.1007/s10915~…}
 }
 
 @article{agnihotri2025second,
@@ -388,9 +318,7 @@ see
   author={Agnihotri, Jaya and Bhoriya, Deepak and Kumar, Harish and Chandrashekar, Praveen and Balsara, Dinshaw S.},
   journal={Communications on Applied Mathematics and Computation, https://arxiv.org/abs/2503.20372},
   year={2025},
-  publisher={https://arxiv.org/abs/2503.20372},
-  doi={http://dx.doi.org/10.48550/arXiv.2503.20372},
-  selected={true}
+  publisher={https://arxiv.org/abs/2503.20372}
 }
 
 @article{singh2025chew,
@@ -400,24 +328,19 @@ see
   volume={188},
   pages={195--220},
   year={2025},
-  publisher={https://doi.org/10.1016/j.camwa.2025.04.008, https://arxiv.org/abs/2504.05503,},
-  doi={https://doi.org/10.1016/j.camwa.2025.04.008},
-  selected={true}
+  publisher={https://doi.org/10.1016/j.camwa.2025.04.008, https://arxiv.org/abs/2504.05503,}
 }
 
-@misc{basak2025constraints,
+@article{basak2025constraints,
   title={Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State},
   author={Basak, Sujoy and Babbar, Arpit and Kumar, Harish and Chandrashekar, Praveen},
-  note={arXiv preprint arXiv:2505.05128},
-  year={2025},
-  doi={http://dx.doi.org/10.48550/arXiv.2505.05128}
+  journal={arXiv preprint arXiv:2505.05128},
+  year={2025}
 }
 
-@unpublished{balsara2025physical,
+@article{balsara2025physical,
   title={Physical Constraint Preserving Higher Order Finite Volume Schemes for Divergence-Free Astrophysical MHD and RMHD},
   author={Balsara, Dinshaw S and Bhoriya, Deepak and Singh, Chetan and Kumar, Harish and K{\"a}ppeli, Roger and Gatti, Federico},
-  note={arXiv preprint arXiv:2506.11181},
-  year={2025},
-  doi={http://dx.doi.org/10.48550/arXiv.2506.11181}
+  journal={arXiv preprint arXiv:2506.11181},
+  year={2025}
 }
-
