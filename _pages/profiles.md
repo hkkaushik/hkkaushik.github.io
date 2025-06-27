@@ -12,7 +12,7 @@ nav_order: 4
 <div class="student">
     <!-- Teaching -->
 
-    <br><br><h3>Post doctoral supervision</h3><br>
+    <br><br><h3>Post doctoral</h3><br>
       <ul class="student-timeline-list">
       <li>
         <div class="student-name">
@@ -26,7 +26,7 @@ nav_order: 4
       </li>
     </ul>
 
-    <br><br><h3>Ph.D. supervision</h3><br>
+    <br><br><h3>Ph.D.</h3><br>
 
     <ul class="student-timeline-list">
       <li>
