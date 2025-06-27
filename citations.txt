@@ -1,0 +1,346 @@
+@incollection{kumar2012finite,
+  title={Finite volume methods for the two-fluid MHD equations},
+  author={Kumar, Harish},
+  booktitle={Hyperbolic Problems: Theory, Numerics and Applications (In 2 Volumes)},
+  pages={510--518},
+  year={2012}
+}
+
+@article{abgrall2014robust,
+  title={Robust finite volume schemes for two-fluid plasma equations},
+  author={Abgrall, Remi and Kumar, Harish},
+  journal={Journal of Scientific Computing},
+  volume={60},
+  pages={584--611},
+  year={2014},
+  publisher={Springer US}
+}
+
+@article{wheatley2010role,
+  title={On the role of Riemann solvers in discontinuous Galerkin methods for magnetohydrodynamics},
+  author={Wheatley, V and Kumar, H and Huguenot, P},
+  journal={Journal of Computational Physics},
+  volume={229},
+  number={3},
+  pages={660--680},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@inproceedings{huguenot2008numerical,
+  title={Numerical simulations of high current arc in circuit breakers},
+  author={Huguenot, P and Kumar, H and Wheatley, V and Jeltsch, R and Schwab, C and Torrilhon, M},
+  booktitle={24th International Conference on Electrical Contacts (ICEC)},
+  year={2008}
+}
+
+@phdthesis{kumar2009three,
+  title={Three dimensional high current arc simulations for circuit breakers using real gas resistive magnetohydrodynamics},
+  author={Kumar, Harish},
+  year={2009},
+  school={ETH Zurich}
+}
+
+@inproceedings{hiptmair2008numerical,
+  title={Numerical Simulation of Compressible Magnetohydrodynamic Plasma Flow in a Curcuit Breaker},
+  author={Hiptmair, Ralf and Hugueniot, Patrick and Jeltsch, Rolf and Kumar, Harish and Schwab, Christoph and Torrilhon, Manuel and Wheatley, Vincent},
+  booktitle={AIP Conference Proceedings},
+  volume={1048},
+  number={1},
+  pages={21--22},
+  year={2008},
+  organization={AIP}
+}
+
+@article{jeltsch2013three,
+  title={Three-Dimensional Plasma Arc Simulation Using Resistive MHD},
+  author={Jeltsch, Rolf and Kumar, Harish},
+  journal={The Courant--Friedrichs--Lewy (CFL) Condition: 80 Years After Its Discovery},
+  pages={31--43},
+  year={2013},
+  publisher={Birkh{\"a}user Boston}
+}
+
+@article{abgrall2014numerical,
+  title={Numerical approximation of a compressible multiphase system},
+  author={Abgrall, Remi and Kumar, Harish},
+  journal={Communications in Computational Physics},
+  volume={15},
+  number={5},
+  pages={1237--1265},
+  year={2014},
+  publisher={Cambridge University Press}
+}
+
+@article{kumar2012entropy,
+  title={Entropy stable numerical schemes for two-fluid plasma equations},
+  author={Kumar, Harish and Mishra, Siddhartha},
+  journal={Journal of scientific computing},
+  volume={52},
+  pages={401--425},
+  year={2012},
+  publisher={Springer US}
+}
+
+@article{kumar2011implicit,
+  title={Implicit-explicit Runge-Kutta methods for the two-fluid MHD equations},
+  author={Kumar, Harish},
+  journal={Research Report},
+  volume={2011},
+  year={2011},
+  publisher={ETH Zurich}
+}
+
+@article{wheatley2011spectral,
+  title={Spectral performance of RKDG methods},
+  author={Wheatley, V and Jeltsch, R and Kumar, H},
+  journal={Mathematica balkanica},
+  volume={25},
+  number={3},
+  pages={257--276},
+  year={2011},
+  publisher={Unitas Mathematicorum Balkanica}
+}
+
+@article{meena2017positivity,
+  title={Positivity-preserving high-order discontinuous Galerkin schemes for Ten-Moment Gaussian closure equations},
+  author={Meena, Asha Kumari and Kumar, Harish and Chandrashekar, Praveen},
+  journal={Journal of Computational Physics},
+  volume={339},
+  pages={370--395},
+  year={2017},
+  publisher={Academic Press}
+}
+
+@article{sen2018entropy,
+  title={Entropy Stable Schemes For Ten-Moment Gaussian Closure Equations},
+  author={Sen, Chhanda and Kumar, Harish},
+  journal={Journal of Scientific Computing},
+  volume={75},
+  number={2},
+  pages={1128--1155},
+  year={2018},
+  publisher={Springer US}
+}
+
+@article{meena2017robust,
+  title={Robust MUSCL Schemes for Ten-Moment Gaussian Closure Equations with Source Terms},
+  author={Meena, Asha Kumari and Kumar, Harish},
+  journal={International Journal On Finite Volumes},
+  volume={13},
+  pages={1--28},
+  year={2017},
+  publisher={https://hal.archives-ouvertes.fr/hal-01619021}
+}
+
+@article{meena2018well,
+  title={A well-balanced scheme for ten-moment Gaussian closure equations with source term},
+  author={Meena, Asha Kumari and Kumar, Harish},
+  journal={Zeitschrift f{\"u}r angewandte Mathematik und Physik},
+  volume={69},
+  number={1},
+  pages={8},
+  year={2018},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{sharma2018study,
+  title={Study of electromagnetic solitons excited by different profile pulses},
+  author={Sharma, Aparna and Malik, Hitendra K and Kumar, Harish},
+  journal={Journal of Theoretical and Applied Physics},
+  volume={12},
+  pages={65--70},
+  year={2018},
+  publisher={Springer Berlin Heidelberg}
+}
+
+
+
+@article{meena2019robust,
+  title={Robust numerical schemes for Two-Fluid Ten-Moment plasma flow equations},
+  author={Meena, Asha Kumari and Kumar, Harish},
+  journal={Zeitschrift f{\"u}r angewandte Mathematik und Physik},
+  volume={70},
+  number={1},
+  pages={23},
+  year={2019},
+  publisher={Springer International Publishing}
+}
+
+@article{bhoriya2020entropy,
+  title={Entropy-stable schemes for relativistic hydrodynamics equations},
+  author={Bhoriya, Deepak and Kumar, Harish},
+  journal={Zeitschrift f{\"u}r angewandte Mathematik und Physik},
+  volume={71},
+  pages={1--29},
+  year={2020},
+  publisher={Springer International Publishing}
+}
+
+@article{biswas2022entropy,
+  title={Entropy stable discontinuous Galerkin schemes for the special relativistic hydrodynamics equations},
+  author={Biswas, Biswarup and Kumar, Harish and Bhoriya, Deepak},
+  journal={Computers \& Mathematics with Applications},
+  volume={112},
+  pages={55--75},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{biswas2021entropy,
+  title={Entropy stable discontinuous Galerkin methods for ten-moment Gaussian closure equations},
+  author={Biswas, Biswarup and Kumar, Harish and Yadav, Anshu},
+  journal={Journal of Computational Physics},
+  volume={431},
+  pages={110148},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{bhoriya2023high,
+  title={High-order finite-difference entropy stable schemes for two-fluid relativistic plasma flow equations},
+  author={Bhoriya, Deepak and Kumar, Harish and Chandrashekar, Praveen},
+  journal={Journal of Computational Physics},
+  volume={488},
+  pages={112207},
+  year={2023},
+  publisher={Academic Press}
+}
+
+@article{subramanian2023techniques,
+  title={Techniques, Tricks and Algorithms for Efficient GPU-Based Processing of Higher Order Hyperbolic PDEs},
+  author={Subramanian, Sethupathy and Balsara, Dinshaw S and Bhoriya, Deepak and Kumar, Harish},
+  journal={Communications on Applied Mathematics and Computation},
+  year={2023}
+}
+
+@article{balsara2023efficient,
+  title={Efficient Finite Difference WENO Scheme for Hyperbolic Systems with Non-Conservative Products},
+  author={Balsara, Dinshaw S and Bhoriya, Deepak and Shu, Chi-Wang and Kumar, Harish},
+  journal={Communications on Applied Mathematics and Computation},
+  year={2023},
+  publisher={https://doi.org/10.1007/s42967-023-00275-9}
+}
+
+@article{yadav2023entropy,
+  title={Entropy stable schemes for the shear shallow water model Equations},
+  author={Yadav, Anshu and Bhoriya, Deepak and Kumar, Harish and Chandrashekar, Praveen},
+  journal={Journal of Scientific Computing},
+  volume={97},
+  number={3},
+  pages={77},
+  year={2023},
+  publisher={Springer US New York}
+}
+
+@article{bhoriya2023entropy,
+  title={Entropy stable discontinuous Galerkin schemes for two-fluid relativistic plasma flow equations},
+  author={Bhoriya, Deepak and Biswas, Biswarup and Kumar, Harish and Chandrashekhar, Praveen},
+  journal={Journal of Scientific Computing},
+  volume={97},
+  number={3},
+  pages={72},
+  year={2023},
+  publisher={Springer US New York}
+}
+
+@article{sharma2019effect,
+  title={Effect of magnetic field on electromagnetic soliton evolution by different pulses},
+  author={Sharma, Aparna and Malik, Hitendra K and Kumar, Harish and Goyal, Sanjeev},
+  journal={Journal of Theoretical and Applied Physics},
+  volume={13},
+  pages={31--37},
+  year={2019},
+  publisher={Springer}
+}
+
+@article{balsara2024efficient,
+  title={Efficient Alternative Finite Difference WENO Schemes for Hyperbolic Conservation Laws},
+  author={Balsara, Dinshaw S and Bhoriya, Deepak and Shu, Chi-Wang and Kumar, Harish},
+  journal={Communications on Applied Mathematics and Computation},
+  pages={1--54},
+  year={2024},
+  publisher={Springer Nature Singapore Singapore}
+}
+
+@article{balsara2024efficient,
+  title={Efficient Alternative Finite Difference WENO Schemes for Hyperbolic Systems with Non-Conservative Products},
+  author={Balsara, Dinshaw S and Bhoriya, Deepak and Shu, Chi-Wang and Kumar, Harish},
+  journal={Communications on Applied Mathematics and Computation},
+  pages={1--50},
+  year={2024},
+  publisher={https://doi.org/10.1007/s42967-024-00374-1}
+}
+
+@article{bhoriya2024going,
+  title={Going Beyond the MHD Approximation: Physics-Based Numerical Solution of the CGL Equations},
+  author={Bhoriya, Deepak and Balsara, Dinshaw S and Florinski, Vladimir and Kumar, Harish},
+  journal={The Astrophysical Journal},
+  volume={970},
+  number={2},
+  pages={arXiv--preprint},
+  year={2024},
+  publisher={AAS}
+}
+
+@article{singh2025entropy,
+  title={Entropy stable finite difference schemes for Chew, Goldberger \& Low anisotropic plasma flow equations},
+  author={Singh, Chetan and Yadav, Anshu and Bhoriya, Deepak and Kumar, Harish and Balsara, Dinshaw S},
+  journal={Journal of Scientific Computing},
+  volume={102},
+  pages={51},
+  year={2025},
+  publisher={https://doi.org/10.1007/s10915-024-02763-3}
+}
+
+@article{basak2025bound,
+  title={Bound Preserving Lax-Wendroff Flux Reconstruction Method for Special Relativistic Hydrodynamics},
+  author={Basak, Sujoy and Babbar, Arpit and Kumar, Harish and Chandrashekar, Praveen},
+  journal={Journal of Computational Physics},
+  volume={527},
+  pages={113815},
+  year={2025},
+  publisher={https://doi.org/10.1016/j.jcp.2025.113815, https://doi.org/10.48550/arXiv~…}
+}
+
+@article{agnihotri2024second,
+  title={Second order divergence constraint preserving entropy stable finite difference schemes for ideal two-fluid plasma flow equations},
+  author={Agnihotri, Jaya and Bhoriya, Deepak and Kumar, Harish and Chandrashekhar, Praveen and Balsara, Dinshaw S},
+  journal={Journal of Scientific Computing},
+  volume={101},
+  number={46},
+  year={2024},
+  publisher={https://doi.org/10.48550/arXiv.2409.16004, https://doi.org/10.1007/s10915~…}
+}
+
+@article{agnihotri2025second,
+  title={Second order divergence constraint preserving schemes for two-fluid relativistic plasma flow equations},
+  author={Agnihotri, Jaya and Bhoriya, Deepak and Kumar, Harish and Chandrashekar, Praveen and Balsara, Dinshaw S.},
+  journal={Communications on Applied Mathematics and Computation, https://arxiv.org/abs/2503.20372},
+  year={2025},
+  publisher={https://arxiv.org/abs/2503.20372}
+}
+
+@article{singh2025chew,
+  title={Chew, Goldberger \& Low Equations: Eigensystem Analysis and Applications to One-Dimensional Test Problems},
+  author={Singh, Chetan and Bhoriya, Deepak and Yadav, Anshu and Kumar, Harish and Balsara, Dinshaw S.},
+  journal={Computers \& Mathematics with Applications},
+  volume={188},
+  pages={195--220},
+  year={2025},
+  publisher={https://doi.org/10.1016/j.camwa.2025.04.008, https://arxiv.org/abs/2504.05503,}
+}
+
+@article{basak2025constraints,
+  title={Constraints Preserving Lax-Wendroff Flux Reconstruction for Relativistic Hydrodynamics with General Equations of State},
+  author={Basak, Sujoy and Babbar, Arpit and Kumar, Harish and Chandrashekar, Praveen},
+  journal={arXiv preprint arXiv:2505.05128},
+  year={2025}
+}
+
+@article{balsara2025physical,
+  title={Physical Constraint Preserving Higher Order Finite Volume Schemes for Divergence-Free Astrophysical MHD and RMHD},
+  author={Balsara, Dinshaw S and Bhoriya, Deepak and Singh, Chetan and Kumar, Harish and K{\"a}ppeli, Roger and Gatti, Federico},
+  journal={arXiv preprint arXiv:2506.11181},
+  year={2025}
+}
