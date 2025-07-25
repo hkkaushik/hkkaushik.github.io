@@ -190,26 +190,6 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
-// Profile_image
-
-.profile_image {
-  width: 100%;
-}
-
-.profile_image.float-right {
-  margin-left: 1rem;
-}
-
-.profile_image.float-left {
-  margin-right: 1rem;
-}
-
-@media (min-width: 576px) {
-  .profile_image {
-    width: 32%;
-  }
-}
-
 // Profile
 
 .profile {

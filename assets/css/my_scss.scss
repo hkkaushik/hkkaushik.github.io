@@ -196,3 +196,23 @@
   text-align: justify;
 }
 
+// Profile_image
+
+.profile_image {
+  width: 100%;
+}
+
+.profile_image.float-right {
+  margin-left: 1rem;
+}
+
+.profile_image.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .profile_image {
+    width: 32%;
+  }
+}
+
