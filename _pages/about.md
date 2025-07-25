@@ -4,20 +4,49 @@ title: Home
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
-profile:
+profile_image:
   align: left
   image: Harish.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>611H, Academic Complex (west)</p>
-    <p>IIT Delhi, Hauz Khas</p>
-    <p>New Delhi, Delhi-110016</p>
 
-    <div style="margin-top: 0.8rem;">
-      <div style="font-weight: bold;">Emails:</div>
-      <p><a href="mailto:hkumar@iitd.ac.in" target="_blank" rel="noopener noreferrer">hkumar@iitd.ac.in</a></p>
-      <p><a href="mailto:harishkumarkaushik511@gmail.com" target="_blank" rel="noopener noreferrer">harishkumarkaushik511@gmail.com</a></p>
+profile:
+  # align: left
+  # image: Harish.jpg
+  # image_circular: true # crops the image to make it circular
+  more_info: >
+    <div style="width: 100%; overflow: hidden;">
+      <!-- Left column: Address and Emails -->
+      <div style="float: left; width: 60%;">
+        <p>611H, Academic Complex (west)</p>
+        <p>IIT Delhi, Hauz Khas</p>
+        <p>New Delhi, Delhi-110016</p>
+
+        <div style="margin-top: 0.8rem;">
+          <div style="font-weight: bold;">Emails:</div>
+          <p><a href="mailto:hkumar@iitd.ac.in" target="_blank" rel="noopener noreferrer">hkumar@iitd.ac.in</a></p>
+          <p><a href="mailto:harishkumarkaushik511@gmail.com" target="_blank" rel="noopener noreferrer">harishkumarkaushik511@gmail.com</a></p>
+        </div>
+      </div>
     </div>
+
+video:
+  align: right
+  video_file: >
+    <div style="margin-top: 2.5rem;">
+      <video width="100%" height="180" controls poster="/assets/video/reljet_thumbnail.png">
+        <source src="/assets/video/reljet.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  video_info: >
+    <div style="width: 100%; overflow: hidden;">
+      <div style="margin-top: 1.0rem; text-align: center; line-height: 0.3;">
+        <p>Relativistic jets</p> 
+        <p>More details about the setups and scheme can be found <a href="https://doi.org/10.1016/j.jcp.2025.113815" target="_blank" rel="noopener noreferrer">here</a>.</p>
+      </div>
+    </div>
+
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -90,6 +119,8 @@ body:
           </li>
         </ul>
 ---
+<!-- ([video tutorial here](assets/video/tutorial_al_folio.mp4)) -->
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

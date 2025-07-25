@@ -17,41 +17,57 @@ layout: default
   {% endcomment %}
 
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
+    {% if page.profile_image %}
+      <div class="profile_image float-{% if page.profile_image.align == 'left' %}left{% else %}right{% endif %}">
+        {% assign profile_image_path = page.profile_image.image | prepend: 'assets/img/' %}
+        {% if page.profile_image.image_circular %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+        {% else %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+        {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
+          30vw, 95vw"{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile_image.image
             cache_bust=true
           %}
-        {% endif %}
-        <header class="post-header">
-          <h1 class="post-title">
-            {% if site.title == 'blank' %}
-              <span class="font-weight-bold">{{ site.first_name }} {{ site.middle_name }}
-              {{ site.last_name }}</span>
-            {% else %}
-              {{ site.title }}
-            {% endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-        </header>
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    {% if page.profile or page.video %}
+      <div class="clearfix">{{ content }}</div>
+      <div class="profile-video-container" style="display: flex; flex-wrap: wrap; gap: 1rem;">
+        {% if page.profile %}
+          <div class="profile" style="flex: 0 0 37%;">
+            <header class="post-header">
+              <h1 class="post-title">
+                {% if site.title == 'blank' %}
+                  <span class="font-weight-bold">{{ site.first_name }} {{ site.middle_name }}
+                  {{ site.last_name }}</span>
+                {% else %}
+                  {{ site.title }}
+                {% endif %}
+              </h1>
+              <p class="desc">{{ page.subtitle }}</p>
+            </header>
+            {% if page.profile.more_info %}
+              <div class="more-info">{{ page.profile.more_info }}</div>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        {% if page.video %}
+          <div class="video" style="flex: 0 0 60%;">
+            {% if page.video.video_file %}
+              <div class="video-file">{{ page.video.video_file }}</div>
+            {% endif %}
+            {% if page.video.video_info %}
+              <div class="video-info">{{ page.video.video_info }}</div>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
