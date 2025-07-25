@@ -22,6 +22,22 @@ pagination:
     <ul class="talk-timeline-list" style="list-style: disc;">
       <li style="margin-bottom: 1em;">
         <div class="talk-name">
+          <div class="presentation-name">International Conference on Differential Equations: Theory, Computation and Applications</div>
+          <div class="talk-role">Invited Speaker</div>
+          <div class="talk_place">South Asian University, New Delhi</div>
+        </div>
+        <div class="talk-dates">Nov 29 - Dec 1, 2024</div>
+      </li>
+        <li style="margin-bottom: 1em;">
+        <div class="talk-name">
+          <div class="presentation-name">International Conference on Applied Mathematics and Mechanics (ICAMM 2023)</div>
+          <div class="talk-role">Invited Speaker</div>
+          <div class="talk_place">IIT Indore</div>
+        </div>
+        <div class="talk-dates">Oct 18 - Oct 20, 2023</div>
+      </li>
+      <li style="margin-bottom: 1em;">
+        <div class="talk-name">
           <div class="presentation-name">Current Trends in Theoretical and Computational Differential Equations with Applications</div>
           <div class="talk-role">Invited Speaker</div>
           <div class="talk_place">South Asian University, New Delhi</div>
@@ -125,6 +141,22 @@ pagination:
 
     <br><br><h3>Workshop Lectures</h3><br>
     <ul class="talk-timeline-list" style="list-style: disc;">
+          <li style="margin-bottom: 1em;">
+        <div class="talk-name">
+          <div class="presentation-name">Entropy Stable Numerical Schemes</div>
+          <div class="talk-role">Six Lectures</div>
+          <div class="talk_place"> NCM School at IIPE, Vishakhapatnam</div>
+        </div>
+        <div class="talk-dates">Dec, 2024</div>
+      </li>
+          <li style="margin-bottom: 1em;">
+        <div class="talk-name">
+          <div class="presentation-name">Entropy Stable Numerical Schemes</div>
+          <div class="talk-role">Six Lectures</div>
+          <div class="talk_place"> NCM School at TIFR-CAM, Bangalore</div>
+        </div>
+        <div class="talk-dates">Dec, 2023</div>
+      </li>
       <li style="margin-bottom: 1em;">
         <div class="talk-name">
           <div class="presentation-name">Introduction to Science Academies Refresher Course on Partial Differential Equations and their Applications (PDEA-2017)</div>

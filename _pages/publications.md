@@ -11,15 +11,15 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 
-<br><br><h3>Journal Publications</h3>
-{% bibliography --query @article %}
-
 <br><br><h3>Preprints</h3>
 {% bibliography --query @unpublished or @misc %}
+
+<br><br><h3>Journal Publications</h3>
+{% bibliography --query @article %}
 
 <br><br><h3>Others</h3>
 {% bibliography --query @inproceedings or @incollection or @phdthesis %}

@@ -12,46 +12,100 @@ nav_order: 4
 <div class="student">
     <!-- Teaching -->
 
-    <br><br><h3>Post doctoral</h3><br>
-      <ul class="student-timeline-list">
-      <li>
-        <div class="student-name">
-          <div class="student-fullname">
-          <a href="https://www.mahindrauniversity.edu.in/faculty/biswarup-biswas/" target="_blank" rel="noopener noreferrer">Biswarup Biswas</a>
-          <span class="degree-awarded">(2019 - 2021)</span>
-          </div>
-          <div class="position"><strong>Current position:</strong>  Assistant Professor, Dept. of Mathematics, Mahindra University, Hyderabad</div>
-          <!-- <div class="thesis"><strong>Thesis title:</strong> Robust Numerical Schemes for Hyperbolic Balance Laws</div> -->
-        </div>
-      </li>
-    </ul>
-
     <br><br><h3>Ph.D.</h3><br>
 
-    <ul class="student-timeline-list">
-      <li>
-        <div class="student-name">
-          <div class="student-fullname">
-          <a href="https://www.curaj.ac.in/faculty/asha-kumari-meena" target="_blank" rel="noopener noreferrer">Asha Kumari Meena</a>
-          <span class="degree-awarded">(Degree awarded in 2018)</span>
-          </div>
-          <div class="position"><strong>Current position:</strong> Assistant Professor, Dept. of Mathematics, Central University of Rajasthan</div>
-          <div class="thesis"><strong>Thesis title:</strong> Robust Numerical Schemes for Hyperbolic Balance Laws</div>
-        </div>
-      </li>
-    </ul>
         <ul class="student-timeline-list">
-      <li>
-        <div class="student-name">
-          <div class="student-fullname">
-          Chhanda Sen
-          <span class="degree-awarded">(Degree awarded in 2019)</span>
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            Punit yadav
+            <span class="degree-awarded">(Ongoing)</span>
+            </div>
+            <div class="position"><strong>Current position:</strong> Ph.D. scholar at IIT Delhi </div>
+            <!-- <div class="thesis"><strong>Thesis title:</strong> </div> -->
           </div>
-          <div class="position"><strong>Current position:</strong> </div>
-          <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Numerical Schemes for Hyperbolic Balance Laws</div>
-        </div>
-      </li>
-    </ul>
+        </li>
+      </ul>
+
+            <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            Nitin Kumar
+            <span class="degree-awarded">(Ongoing)</span>
+            </div>
+            <div class="position"><strong>Current position:</strong> Ph.D. scholar at IIT Delhi </div>
+            <!-- <div class="thesis"><strong>Thesis title:</strong> </div> -->
+          </div>
+        </li>
+      </ul>
+
+              <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            <a href="https://sujoy-basak.github.io" target="_blank" rel="noopener noreferrer">Sujoy Basak</a>
+            <span class="degree-awarded">(Ongoing)</span>
+            </div>
+            <div class="position"><strong>Current position: </strong>  Ph.D. scholar (PMRF) at IIT Delhi </div>
+            <!-- <div class="thesis"><strong>Thesis title:</strong> </div> -->
+          </div>
+        </li>
+      </ul>
+
+              <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            Chetan Singh
+            <span class="degree-awarded">(Ongoing)</span>
+            </div>
+            <div class="position"><strong>Current position: </strong> Ph.D. scholar at IIT Delhi </div>
+            <!-- <div class="thesis"><strong>Thesis title:</strong> </div> -->
+          </div>
+        </li>
+      </ul>
+
+              <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            Jaya Agnihotri
+            <span class="degree-awarded">(Thesis submitted)</span>
+            </div>
+            <div class="position"><strong>Current position:</strong> Ph.D. scholar at IIT Delhi </div>
+            <div class="thesis"><strong>Thesis title:</strong> Divergence Constraint Preserving Numerical Schemes for Two-Fluid Plasma Flows </div>
+          </div>
+        </li>
+      </ul>
+
+              <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            Anshu Yadav
+            <span class="degree-awarded">(Degree awarded in 2024)</span>
+            </div>
+            <!-- <div class="position"><strong>Current position:</strong> </div> -->
+            <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Schemes For Conservative and Non-conservative Hyperbolic Systems</div>
+          </div>
+        </li>
+      </ul>
+
+           <ul class="student-timeline-list">
+        <li>
+          <div class="student-name">
+            <div class="student-fullname">
+            <a href="https://dbhoriya.github.io" target="_blank" rel="noopener noreferrer">Deepak Bhoriya</a>
+            <span class="degree-awarded">(Degree awarded in 2022)</span>
+            </div>
+            <div class="position"><strong>Current position:</strong> Post-Doctoral Research Associate at University of Notre Dame, USA (With Prof. Dinshaw S. Balsara)</div>
+            <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Schemes for Relativistic Flows</div>
+          </div>
+        </li>
+      </ul>
+
+
         <ul class="student-timeline-list">
       <li>
         <div class="student-name">
@@ -65,90 +119,52 @@ nav_order: 4
         </div>
       </li>
     </ul>
-      <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            <a href="https://dbhoriya.github.io" target="_blank" rel="noopener noreferrer">Deepak Bhoriya</a>
-            <span class="degree-awarded">(Degree awarded in 2022)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> Post-Doctoral Research Associate at University of Notre Dame, USA (With Prof. Dinshaw S. Balsara)</div>
-            <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Schemes for Relativistic Flows</div>
-          </div>
-        </li>
-      </ul>
 
-        <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            Anshu Yadav
-            <span class="degree-awarded">(Degree awarded in 2024)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Schemes For Conservative and Non-conservative Hyperbolic Systems</div>
+              <ul class="student-timeline-list">
+      <li>
+        <div class="student-name">
+          <div class="student-fullname">
+          Chhanda Sen
+          <span class="degree-awarded">(Degree awarded in 2019)</span>
           </div>
-        </li>
-      </ul>
-        <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            Jaya Agnihotri
-            <span class="degree-awarded">(Ongoing)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> </div>
+          <!-- <div class="position"><strong>Current position:</strong> </div> -->
+          <div class="thesis"><strong>Thesis title:</strong> Entropy Stable Numerical Schemes for Hyperbolic Balance Laws</div>
+        </div>
+      </li>
+    </ul>
+
+          <ul class="student-timeline-list">
+      <li>
+        <div class="student-name">
+          <div class="student-fullname">
+          <a href="https://www.curaj.ac.in/faculty/asha-kumari-meena" target="_blank" rel="noopener noreferrer">Asha Kumari Meena</a>
+          <span class="degree-awarded">(Degree awarded in 2018)</span>
           </div>
-        </li>
-      </ul>
-        <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            Chetan Singh
-            <span class="degree-awarded">(Ongoing)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> </div>
-          </div>
-        </li>
-      </ul>
-         <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            <a href="https://sujoy-basak.github.io" target="_blank" rel="noopener noreferrer">Sujoy Basak</a>
-            <span class="degree-awarded">(Ongoing)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> </div>
-          </div>
-        </li>
-      </ul>
+          <div class="position"><strong>Current position:</strong> Assistant Professor, Dept. of Mathematics, Central University of Rajasthan</div>
+          <div class="thesis"><strong>Thesis title:</strong> Robust Numerical Schemes for Hyperbolic Balance Laws</div>
+        </div>
+      </li>
+    </ul>
+
+
+
+
+
+
+
+
+      <br><br><h3>Post doctoral</h3><br>
       <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            Nitin Kumar
-            <span class="degree-awarded">(Ongoing)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> </div>
+      <li>
+        <div class="student-name">
+          <div class="student-fullname">
+          <a href="https://www.mahindrauniversity.edu.in/faculty/biswarup-biswas/" target="_blank" rel="noopener noreferrer">Biswarup Biswas</a>
+          <span class="degree-awarded">(2019 - 2021)</span>
           </div>
-        </li>
-      </ul>
-        <ul class="student-timeline-list">
-        <li>
-          <div class="student-name">
-            <div class="student-fullname">
-            Punit yadav
-            <span class="degree-awarded">(Ongoing)</span>
-            </div>
-            <div class="position"><strong>Current position:</strong> </div>
-            <div class="thesis"><strong>Thesis title:</strong> </div>
-          </div>
-        </li>
-      </ul>
+          <div class="position"><strong>Current position:</strong>  Assistant Professor, Dept. of Mathematics, Mahindra University, Hyderabad</div>
+          <!-- <div class="thesis"><strong>Thesis title:</strong> Robust Numerical Schemes for Hyperbolic Balance Laws</div> -->
+        </div>
+      </li>
+    </ul>
 
 </div>

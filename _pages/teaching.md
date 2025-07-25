@@ -20,6 +20,83 @@ nav_order: 2
     <ul class="course-timeline-list">
     <li>
         <div class="course-name">
+        Calculus
+        <div class="course-description">Undergraduate, IIT Delhi, Abu Dhabi</div>
+        </div>
+        <div class="course-term">Semester I</div>
+        <div class="course-dates">2025 – 2026</div>
+    </li>
+         <li>
+        <div class="course-name">
+        Linear Algebra and Differential Equations,
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester II</div>
+        <div class="course-dates">2024 – 2025</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Numerical Methods and Computations
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester I</div>
+        <div class="course-dates">2024 – 2025</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Numerical Methods and Computations
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester II</div>
+        <div class="course-dates">2023 – 2024</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Real Analysis
+        <div class="course-description">Postgraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester I</div>
+        <div class="course-dates">2023 – 2024</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Calculus
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester I</div>
+        <div class="course-dates">2023 – 2024</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Calculus
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Summer Semester</div>
+        <div class="course-dates">2023</div>
+    </li>
+
+
+
+
+
+     <li>
+        <div class="course-name">
+        Linear Algebra and Differential Equations
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester II</div>
+        <div class="course-dates">2022 – 2023</div>
+    </li>
+    <li>
+        <div class="course-name">
+        Seminar Course
+        <div class="course-description">Undergraduate, IIT Delhi</div>
+        </div>
+        <div class="course-term">Semester II</div>
+        <div class="course-dates">2022 – 2023</div>
+    </li>
+    <li>
+        <div class="course-name">
         Numerical Methods and Computations
         <div class="course-description">Undergraduate, IIT Delhi</div>
         </div>

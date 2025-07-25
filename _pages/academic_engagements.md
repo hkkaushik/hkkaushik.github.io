@@ -18,6 +18,25 @@ nav_order: 6
 
 <div class="academic">
 
+    <br><br><h3>Research Visits</h3><br>
+    <ul style="list-style: disc; padding-left: 1.2em;">
+      <li style="margin-bottom: 1em;">
+        Seminar for Applied Mathematics, ETH Zurich, May 24 - 27, 2017.
+      </li>
+      <li style="margin-bottom: 1em;">
+        University of Pau, France, under IFCAM project, March 5 - 18, 2017.
+      </li>
+      <li style="margin-bottom: 1em;">
+        University of Notre-Dame, USA, Feb 17 - March 31, 2023.
+      </li>
+      <li style="margin-bottom: 1em;">
+        University of Exeter, UK, July 8 - 22, 2024.
+      </li>
+      <li style="margin-bottom: 1em;">
+        Several visits to TIFR Centre for applicable mathematics for research collaboration with <a href="https://cpraveen.github.io" target="_blank" rel="noopener noreferrer">Prof. Praveen Chandrashekar</a>.
+      </li>
+    </ul>
+
     <br><br><h3>Reviewer for Journals:</h3><br>
     <ul style="list-style: disc; padding-left: 1.2em;">
       <li style="margin-bottom: 1em;">
@@ -43,7 +62,7 @@ nav_order: 6
       </li>
     </ul>
 
-    <br><br><h3>Invited Speaker at Conferences:</h3><br>
+    <!-- <br><br><h3>Invited Speaker at Conferences:</h3><br>
     <ul style="list-style: disc; padding-left: 1.2em;">
       <li style="margin-bottom: 1em;">
         <strong>Current Trends in Theoretical and Computational Differential Equations with Applications</strong>, December 1-5, 2017, South Asian University, New Delhi.
@@ -63,20 +82,9 @@ nav_order: 6
       <li style="margin-bottom: 1em;">
         <strong>28th Conference of Ramanujan Mathematical Society</strong>, 2013, Bangalore, India.
       </li>
-    </ul>
+    </ul> -->
 
-    <br><br><h3>Research Visits</h3><br>
-    <ul style="list-style: disc; padding-left: 1.2em;">
-      <li style="margin-bottom: 1em;">
-        Seminar for Applied Mathematics, ETH Zurich, 24-27th May, 2017.
-      </li>
-      <li style="margin-bottom: 1em;">
-        University of Pau, France, under IFCAM project, March, 5-18, 2017.
-      </li>
-      <li style="margin-bottom: 1em;">
-        Several visits to TIFR Centre for applicable mathematics for research collaboration.
-      </li>
-    </ul>
+
 
     <br><br><h3>Administrative Duties</h3><br>
     <h4 style="font-size: 1.3em; padding-left: 1.5em;">Department Level</h4><br>
