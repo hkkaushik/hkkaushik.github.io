@@ -278,7 +278,7 @@
   journal={The Astrophysical Journal},
   volume={970},
   number={2},
-  pages={arXiv--preprint},
+  pages={1--27},
   year={2024},
   publisher={AAS}
 }
